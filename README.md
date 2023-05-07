@@ -1,1 +1,1 @@
-# Machine-Learning-Credit-Default-Prediction
+# The purpose of this project was to create a prototype predictive machine learning model which would help predict and reduce the frequency of defaulted credit loans at the application stage. Several classification models were built and evaluated for performance (ROC curve, confusion matrix) to determine which would be the foundation for the prototype.
